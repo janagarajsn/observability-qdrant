@@ -1,0 +1,9 @@
+.qodo/
+lenv/
+logs/*
+.env
+src/__pycache__/
+ingest-tracker/*
+static-logs/*
+stream-logs/*
+incidents/*
